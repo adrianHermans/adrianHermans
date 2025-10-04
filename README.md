@@ -1,9 +1,11 @@
 <div align="center">
-  <p>Hey, I'm Adrian Hermans</p>
+  <h3>Hey, I'm Adrian Hermans</h3>
+  <hr/>
   <p>🚀 Full-stack dev </p>
+  <br/>
   <p>🛠️ Tech Stack</p>
   <p>React · React Native · Next.js · Node.js · TypeScript · MongoDB · Python</p>
-
+ <hr/>
 </div>
 
 <div align="center">
