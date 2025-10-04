@@ -1,8 +1,8 @@
 <div align="center">
   <p>Hey, I'm Adrian Hermans</p>
-  <p>🚀 Full-stack dev | React, Node.js, TypeScript, Python</p>
-  <p>🛠️ Tech Stack
-  React · React Native · Next.js · Node.js · TypeScript · MongoDB · Python</p>
+  <p>🚀 Full-stack dev </p>
+  <p>🛠️ Tech Stack</p>
+  <p>React · React Native · Next.js · Node.js · TypeScript · MongoDB · Python</p>
 
 </div>
 
