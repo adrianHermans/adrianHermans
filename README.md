@@ -8,7 +8,7 @@
  <hr/>
 </div>
 
-<div align="center">
+<div align="center" gap="4rem">
   <a href="https://github.com/adrianHermans">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianHermans&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianHermans&layout=compact&langs_count=7&theme=dracula"/>
