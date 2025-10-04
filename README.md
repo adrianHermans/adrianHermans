@@ -1,4 +1,12 @@
 <div align="center">
+  <p>Hey, I'm Adrian Hermans</p>
+  <p>🚀 Full-stack dev | React, Node.js, TypeScript, Python</p>
+  <p>🛠️ Tech Stack
+  React · React Native · Next.js · Node.js · TypeScript · MongoDB · Python</p>
+
+</div>
+
+<div align="center">
   <a href="https://github.com/adrianHermans">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianHermans&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianHermans&layout=compact&langs_count=7&theme=dracula"/>
