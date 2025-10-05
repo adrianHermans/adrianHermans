@@ -1,6 +1,7 @@
 <div align="center">
   <h3>Hey, I'm Adrian Hermans</h3>
   <p>Full-stack developer with 3.5+ years building and maintaining production web applications and automation systems. I combine modern front-end work (React / Next.js / TypeScript) with robust backend experience (Node.js and Python), strong API/integration skills, and CI/CD practice to deliver scalable, testable, and maintainable systems.</p>
+  
   <hr/>
 
   <p>🛠️ Tech Stack</p>
