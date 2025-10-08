@@ -5,7 +5,7 @@
   <hr/>
 
   <p>🛠️ Tech Stack</p>
-  <p>React · React Native · Next.js · Node.js · TypeScript · MongoDB · Python</p>
+  <p>React · React Native · Next.js · Node.js · TypeScript · MongoDB · Python </p>
  <hr/>
 </div>
 
